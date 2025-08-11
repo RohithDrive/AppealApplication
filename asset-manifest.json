@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AppealApplication/static/css/main.e78ce221.css",
+    "main.js": "/AppealApplication/static/js/main.4163fecd.js",
+    "static/js/977.75eeca15.chunk.js": "/AppealApplication/static/js/977.75eeca15.chunk.js",
+    "static/js/732.02a3abdc.chunk.js": "/AppealApplication/static/js/732.02a3abdc.chunk.js",
+    "static/js/453.655b9aa3.chunk.js": "/AppealApplication/static/js/453.655b9aa3.chunk.js",
+    "static/media/logo.svg": "/AppealApplication/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AppealApplication/index.html",
+    "main.e78ce221.css.map": "/AppealApplication/static/css/main.e78ce221.css.map",
+    "main.4163fecd.js.map": "/AppealApplication/static/js/main.4163fecd.js.map",
+    "977.75eeca15.chunk.js.map": "/AppealApplication/static/js/977.75eeca15.chunk.js.map",
+    "732.02a3abdc.chunk.js.map": "/AppealApplication/static/js/732.02a3abdc.chunk.js.map",
+    "453.655b9aa3.chunk.js.map": "/AppealApplication/static/js/453.655b9aa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e78ce221.css",
+    "static/js/main.4163fecd.js"
+  ]
+}
