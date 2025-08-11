@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {BrowserRouter as Router, Routes,Route,Navigate} from 'react-router-dom';
+import {HashRouter as Router, Routes,Route,Navigate} from 'react-router-dom';
 
 import AppealReciept from './components/AppealReciept.js'
 import ScrutinyDetails from './components/ScrutinyDetails.js';
