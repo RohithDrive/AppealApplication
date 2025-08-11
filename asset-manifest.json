@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/AppealApplication/static/css/main.e78ce221.css",
-    "main.js": "/AppealApplication/static/js/main.a152b4e5.js",
+    "main.js": "/AppealApplication/static/js/main.e81ad728.js",
     "static/js/977.88829c2e.chunk.js": "/AppealApplication/static/js/977.88829c2e.chunk.js",
     "static/js/732.bc350865.chunk.js": "/AppealApplication/static/js/732.bc350865.chunk.js",
     "static/js/453.e9cc1f03.chunk.js": "/AppealApplication/static/js/453.e9cc1f03.chunk.js",
     "static/media/logo.svg": "/AppealApplication/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AppealApplication/index.html",
     "main.e78ce221.css.map": "/AppealApplication/static/css/main.e78ce221.css.map",
-    "main.a152b4e5.js.map": "/AppealApplication/static/js/main.a152b4e5.js.map",
+    "main.e81ad728.js.map": "/AppealApplication/static/js/main.e81ad728.js.map",
     "977.88829c2e.chunk.js.map": "/AppealApplication/static/js/977.88829c2e.chunk.js.map",
     "732.bc350865.chunk.js.map": "/AppealApplication/static/js/732.bc350865.chunk.js.map",
     "453.e9cc1f03.chunk.js.map": "/AppealApplication/static/js/453.e9cc1f03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e78ce221.css",
-    "static/js/main.a152b4e5.js"
+    "static/js/main.e81ad728.js"
   ]
 }
