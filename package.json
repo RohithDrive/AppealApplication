@@ -2,6 +2,7 @@
   "name": "appealapplication",
   "version": "0.1.0",
   "private": true,
+  "name":"appealapplication",
   "homepage": "https://RohithDrive.github.io/AppealApplication",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
