@@ -8,7 +8,11 @@ import ScrutinyDetails from './components/ScrutinyDetails.js';
 function App() {
   return (
     <div className="App">
+<<<<<<< HEAD
 	{/*<header className="App-header">
+=======
+	  {/*<header className="App-header">
+>>>>>>> 65967f32be76227dd6fc46bbc2a635176b6dd8e3
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -21,7 +25,11 @@ function App() {
         >
           Learn React
         </a>
+<<<<<<< HEAD
 	</header>*/}
+=======
+      </header>*/}
+>>>>>>> 65967f32be76227dd6fc46bbc2a635176b6dd8e3
 	  
 	  <Router>
 		<Routes>
